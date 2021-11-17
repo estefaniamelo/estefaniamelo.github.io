@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Welcome to my page
 
-You can use the [editor on GitHub](https://github.com/estefaniamelo/estefaniamelo.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## About me 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm a recent graduate of the Software Engineer program at Sheridan College and I'm currently looking for a full-time 
+Junior Web Developer position. I have experience working with:
+1. HTML
+2. CSS
+3. JavaScript
+4. some Angular. 
 
-### Markdown
+Here are some of the projects I've worked on: 
+1. [COVID Canada Tracker](https://estefaniamelo.github.io/CovidTracker/)
+2. [Music Library Web App](https://estefaniamelo.github.io/MusicLibrary/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/estefaniamelo/estefaniamelo.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
