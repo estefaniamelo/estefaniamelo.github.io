@@ -12,6 +12,6 @@ I have experience working with:
 4. some Angular. 
 
 Here are some of the projects I have created: 
-1. [COVID Canada Tracker](https://github.com/estefaniamelo/CovidTracker/)
+1. [COVID Canada Tracker](https://estefaniamelo.github.io/CovidTracker/)
 2. [Music Library Web App](https://estefaniamelo.github.io/MusicLibrary/)
 
